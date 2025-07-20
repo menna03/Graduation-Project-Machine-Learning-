@@ -85,6 +85,7 @@ SnapFit includes a smart gender-based outfit generation engine designed to sugge
 Outfit Compatibility Results:
 
 <img width="811" height="646" alt="SnapFit Women Outfit 1" src="https://github.com/user-attachments/assets/6727b44d-02e8-4b38-a249-137410037071" /> <br> <img width="974" height="419" alt="SnapFit Women Outfit 2" src="https://github.com/user-attachments/assets/8af442ee-dd47-4044-adf0-3be509e738b7" /> <br> <img width="915" height="375" alt="SnapFit Women Outfit 3" src="https://github.com/user-attachments/assets/57613646-63f0-4abf-a61e-eab56b31a4b5" />
+
 👨 Men
 
 ✅ Example Input Items
@@ -99,6 +100,7 @@ Shoes:
 Bottomwear:
 
 <img width="760" height="334" alt="Men Bottomwear" src="https://github.com/user-attachments/assets/7a83afc6-67c7-40c4-b92b-59a46cd5d56d" />
+
 🧥 Winter Styling Logic for Men
 If the input item is identified as winter wear (e.g., sweaters, boots), SnapFit automatically adds a compatible jacket to ensure warmth and aesthetic coordination.
 
@@ -122,7 +124,10 @@ Enables personalized fashion recommendations by identifying items that closely r
 🔽 Example Output:
 <img width="994" height="230" alt="image" src="https://github.com/user-attachments/assets/394f8d5a-14e3-44bb-bcc1-97ec58a35387" /> <img width="1009" height="229" alt="image" src="https://github.com/user-attachments/assets/9b0a7023-bbb8-4409-9bc2-7aaaa61f52f2" /> <img width="998" height="218" alt="image" src="https://github.com/user-attachments/assets/b7dafaff-7106-4a57-9886-4efff61891f9" />
 
+
 3D Model 
+
+https://github.com/user-attachments/assets/3c166475-aa2c-4325-9a01-61c5ff747e10
 
 
 MK Project Links
